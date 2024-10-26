@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println(" Input your text: ");
         new Scanner(System.in);
-        //String str = "123, abc def. abc";
+        //String str = "123, abc def. abc.";
         Scanner sc1 = new Scanner(System.in);
         String str = sc1.nextLine();
         str = str.toLowerCase();
